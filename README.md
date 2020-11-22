@@ -8,13 +8,13 @@ New York City’s population is projected to surpass 9 million by 2050, with the
 ![OneNYC-Executive-Summary-Graph-Population](https://user-images.githubusercontent.com/73083156/99832772-0dce1900-2b2f-11eb-8146-702f9513d248.jpg)  
 
 
-**Observations of Mahanttan AirBnBs**  
+**Observations of Mahanttan AirBnB Listings**  
 For our group, the qualities that make a neighborhood a desirable place to live in are safety or low crime, affordability, access to transportation, convenient location, good public schools, more jobs, and access to other amenities (restaurants, parks, gyms, grocery stores, etc.). The three most important qualities for us are safety, affordability, and convenient location. We consider these three qualities to be the most essential because when choosing a neighborhood to live in, you want to feel safe in your home and walking around your neighborhood; you want to be able to comfortably afford your rent every month; and you want your apartment to be in a convenient location in terms of having easy access to transportation and a short commute time to work or other places around the city.   
 
 ![arrest_precinct](https://user-images.githubusercontent.com/73083156/99832742-00b12a00-2b2f-11eb-9910-540adc8c70b2.png)
 
 
-**AirBnB Stattistics in Manhattan**  
+**AirBnB Statistics in Manhattan**  
 Almost half of the listings in all boroughs are in Manhattan (44%). This shows that Manhattan is a highly desirable area to live in, and according to our report in HC3, this is due to it having a vibrant lifestyle full of activities and jobs available to people of all ages. 
 
 ![2](https://user-images.githubusercontent.com/73083156/99120020-2a66d000-25c8-11eb-88b9-1aa5f25a59c6.png)  
