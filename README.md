@@ -27,3 +27,4 @@ Across all neighborhoods, Tribeca has, by far, the highest average price per nig
 **Individual Webpages**  
 Dorothy Liu: https://doroliu.github.io/Ctown/  
 Eli Feldman: https://efeldman36.github.io/West-Village/  
+Anling Chen: https://anling5chen22.github.io/east-village/
