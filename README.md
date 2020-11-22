@@ -25,5 +25,5 @@ Manhattan has by far the highest average price of airbnb listings with an averag
 Across all neighborhoods, Tribeca has, by far, the highest average price per night at almost $500 a night. The next highest is Battery Park City at $360 a night, followed by the Financial District at $350 a night. The lowest average price per night positions are taken by Inwood and Washington Heights, which both have an average of $100 a night. This reflects our borough average of $200 a night well, as there is a wide range of prices across all neighborhoods but most range from $150 - $250 a night.  
 
 **Individual Webpages**  
-Dorothy Liu: https://doroliu.github.io/Ctown/
-Eli Feldman: https://efeldman36.github.io/West-Village/
+Dorothy Liu: https://doroliu.github.io/Ctown/  
+Eli Feldman: https://efeldman36.github.io/West-Village/  
