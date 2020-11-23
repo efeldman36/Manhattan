@@ -1,6 +1,8 @@
+# AIRBNBS IN MANHATTAN
+
 ![lower_manhattan_skyline_low_altitude_aerial_battery_park_skyscrapers](https://user-images.githubusercontent.com/73083156/99820650-0b63c300-2b1f-11eb-861b-2ef8a780fefc.jpg)
 
-**Demographics & Statistics**  
+# Demographics & Statistics  
 According to NYC 2020 census, Manhattan has a population of 1,632,480 people and a population density of 70,826 people per square mile. Although Manhattan is the smallest borough in terms of land area, it is the most densely populated. For the racial composition, there are about 58.9% white, 50.7% Non-Hispanic White, 10.3% Asian and 15.5% Black or African American.  
 ![Manhattan_race](https://user-images.githubusercontent.com/73083156/99832757-060e7480-2b2f-11eb-9066-b926574322ec.png)  
 
@@ -8,7 +10,7 @@ New York City’s population is projected to surpass 9 million by 2050, with the
 ![OneNYC-Executive-Summary-Graph-Population](https://user-images.githubusercontent.com/73083156/99832772-0dce1900-2b2f-11eb-8146-702f9513d248.jpg)  
 
 
-**Observations of Mahanttan AirBnB Listings**  
+# Observations of Mahanttan AirBnB Listings  
 For our group, the qualities that make a neighborhood a desirable place to live in are safety or low crime, affordability, access to transportation, convenient location, good public schools, more jobs, and access to other amenities (restaurants, parks, gyms, grocery stores, etc.). The three most important qualities for us are safety, affordability, and convenient location. We consider these three qualities to be the most essential because when choosing a neighborhood to live in, you want to feel safe in your home and walking around your neighborhood; you want to be able to comfortably afford your rent every month; and you want your apartment to be in a convenient location in terms of having easy access to transportation and a short commute time to work or other places around the city.   
 
 ![arrest_precinct](https://user-images.githubusercontent.com/73083156/99832742-00b12a00-2b2f-11eb-9910-540adc8c70b2.png)
@@ -16,9 +18,9 @@ For our group, the qualities that make a neighborhood a desirable place to live 
 
 # AirBnB Statistics in Manhattan  
 
-_Exhibit 1:_ **NUMBER OF LISTINGS
+_Exhibit 1:_ **NUMBER OF LISTINGS 
 
-***The number of listings in all boroughs is 48895. The number of listings in Manhattan is 21661.***
+### The number of listings in all boroughs is 48895. The number of listings in Manhattan is 21661.###
 
 Almost half of the listings in all boroughs are in Manhattan (44%). This shows that Manhattan is a highly desirable area to live in, and according to our report in HC3, this is due to it having a vibrant lifestyle full of activities and jobs available to people of all ages.  
 
