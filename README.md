@@ -20,7 +20,7 @@ For our group, the qualities that make a neighborhood a desirable place to live 
 
 _Exhibit 1: NUMBER OF LISTINGS_
 
-**The number of listings in all boroughs is 48895. The number of listings in Manhattan is 21661
+**The number of listings in all boroughs is 48895. The number of listings in Manhattan is 21661**
 
 Almost half of the listings in all boroughs are in Manhattan (44%). This shows that Manhattan is a highly desirable area to live in, and according to our report in HC3, this is due to it having a vibrant lifestyle full of activities and jobs available to people of all ages.  
 
