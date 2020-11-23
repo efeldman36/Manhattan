@@ -41,7 +41,38 @@ In Manhattan, most of the airbnbs offered are entire houses or apartments. In fa
 
 _Exhibit 5_
 
+<img src="average price in each neighborhood.png" class="inline"/>
+
+Only one of our neighbourhoods exceeds the neighbourhood average, and that is West Village, which has a nightly average of about $265. East Village takes the second highest spot at $186 a night. Chinatown is third at $160 a night, and East Harlem is least expensive at about $135 a month. This aligns closely with our own rankings for neighborhood desirability in HC3, in which we rated West Village and East Village as highly desirable, Chinatown as next desirable, and East Harlem as comparatively least desirable. 
+
 _Exhibit 6_
+
+<img src="average mini nights in our nbhds.png" class="inline"/>
+
+West Village has the highest average number of minimum nights, with about 7.9. East Village follows at 6.5 minimum nights, and East Harlem and China are very close to each other, but East Harlem leads with 5.9 minimum nights and Chinatown with 5.8 minimum nights. Minimum nights is very important because the longer the client stays in the space, the more money they have to pay and the higher the profit. It can also indicate how lively the neighborhood the apartment is located in. If it is meant for overnight breaks, one minimum night would suffice. But if it is good for a long-term vacation stay, the minimum nights will increase. 
+
+_Exhibit 7_
+
+<img src="average minimum nights in boroughs.png" class="inline"/>
+
+The highest average number of reviews are for airbnbs in Queens, where it draws in about 1.9 reviews per month. Next is Staten Island, which draws in about 1.83 reviews month, followed closely by the Bronx, with 1.80 reviews per month. Brooklyn has the fourth lease reviews per month, with 1.3, and Manhattan has the least, with 1.23 reviews per month. The number of reviews per month can indicate how long a tenant stays in the airbnb. The longer the stay, the fewer the reviews since not as many groups can book the airbnb in a period of time. 
+
+_Exhibit 8_
+
+<img src="average minimum nights in boroughs.png" class="inline"/>
+
+_Exhibit 7_
+
+<img src="average minimum nights in boroughs.png" class="inline"/>
+
+_Exhibit 7_
+
+<img src="average minimum nights in boroughs.png" class="inline"/>
+
+_Exhibit 7_
+
+<img src="average minimum nights in boroughs.png" class="inline"/>
+
 **Individual Webpages**  
 Dorothy Liu: https://doroliu.github.io/Ctown/  
 Eli Feldman: https://efeldman36.github.io/West-Village/  
